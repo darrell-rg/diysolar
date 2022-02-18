@@ -363,7 +363,7 @@ If a squirel chews through the insulation of the wires,  it would be best to ful
 
 	.smol-flexbox-grid > * {
 		flex: 1 1 var(--min);
-		border: 1px solid red;
+		/* border: 1px solid red; */
 	}
 
 	.smol-flexbox-grid > div:first-child {
