@@ -1,6 +1,7 @@
 {
   "name": "diysolar",
   "version": "0.0.1",
+  "description": "Solar Hot Water",
   "scripts": {
     "dev": "svelte-kit dev",
     "build": "svelte-kit build",
