@@ -25,3 +25,7 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://kit.svelte.dev/docs/adapters) for your target environment.
+
+
+The <a href="/todos">TODOs</a> page illustrates SvelteKit's data loading and form handling. Try using
+it with JavaScript disabled!
